@@ -1,0 +1,172 @@
+
+.Couleurbienv{
+    color: #110581;
+    }
+
+.Couleurtext{
+    color: #db0707;
+    }
+
+    .IMG{
+    padding: 50px;
+    margin: 50px;
+    border: 10PX solid blue ;
+    }
+
+.img-logo {
+  width: 70px;      
+  height: auto; 
+  float: left; 
+  top: 0px%;   
+}
+
+.SECT{   
+  
+  Position: static;   
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    color: #000000c5;
+}
+
+
+.Entete {
+    background: #110581;
+    border: 2px solid white;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    
+}
+
+.Entete nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.Haut {
+    background: linear-gradient(to right, #2c028f, #4b0606);
+    border: 2px solid white;
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
+
+.Haut input {
+    margin-top: 20px;
+    padding: 12px 25px;
+   background-color: #db0707;
+    color: rgb(248, 244, 244);
+    border: none;
+    cursor: pointer;
+}
+
+
+.section {
+    padding: 50px 10%;
+    text-align: center;
+}
+
+.c {
+    background: white;
+}
+
+
+.ensemble {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    align-items: justify;
+}
+
+.Sensembl {
+    background: white;
+    padding: 10px;
+    width: 150px;
+    align-items: justify;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(236, 10, 10, 0.938);
+  
+}
+
+.Sensembl img {
+    width: 100%;
+}
+
+.prix {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+    color: red;
+}
+
+.Sensembl input {
+    background: rgb(13, 3, 68);
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.QUISOMM{
+    color: Blue;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    text-align:center ;
+
+    }
+
+    .TextPropo{
+    padding: 150px;
+    color: dark;
+    }
+    
+
+
+form {
+    max-width: 400px;
+    margin: auto;
+}
+
+form input, form textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+
+
+
+
+
+.footer {
+    background: #34079c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+
+
+
+
